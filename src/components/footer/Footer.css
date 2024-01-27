@@ -1,0 +1,25 @@
+.footer {
+  height: 200px;
+  background: rgba(19, 19, 24, 0.05);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  padding: 40px;
+}
+
+.footer-line {
+  width: 70%;
+  background: rgba(19, 19, 24, 0.1);
+}
+
+.footer-text {
+  width: 60%;
+  text-align: center;
+}
+
+.footer-social-icon {
+  width: 20%;
+  display: flex;
+  justify-content: space-around;
+}
